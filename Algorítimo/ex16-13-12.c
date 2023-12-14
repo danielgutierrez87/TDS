@@ -21,4 +21,5 @@ int main() {
             printf("A média de idade deste grupo é %f anos.", media);
                
     return 0;
+    
 }
